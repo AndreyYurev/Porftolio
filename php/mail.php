@@ -10,9 +10,9 @@ $c = true;
 $admin_email  = trim($_POST["myemail@mail.ru"]);
 $email_from  = trim($_POST["info@portfolio.ru"]); */
 // $form_subject = trim($_POST["form_subject"]);
-$project_name = "cl47081.tmweb.ru";
-$admin_email = "leovas1972@gmail.com, lareta064@gmail.com";
-$email_from = "info@cl47081.tmweb.ru";
+$project_name = "https://andreyyurev.github.io/Porftolio/";
+$admin_email = "ayurev.work@mail.ru";
+$email_from = "info@andreyyurev.github.io";
 $message="";
 // Serialize form fields - that filled-in by User
 foreach ( $_POST as $key => $value ) {
